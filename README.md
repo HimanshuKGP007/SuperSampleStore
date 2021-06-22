@@ -1,5 +1,7 @@
 # SuperSampleStore
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HimanshuKGP007/SuperSampleStore/HEAD)
+
 The following are the project objectives-
 
 - Performing EDA on the data to derive insights on how the profits can be increased.
